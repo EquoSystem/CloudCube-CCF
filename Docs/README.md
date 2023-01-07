@@ -12,5 +12,5 @@ EquoSystem yönetiminde bir bulut laboratuvarı kurulmasının ardından
 başlayan süreç, çeşitli eğitim programları, bulut etkinlikleri, girişimcilik 
 çağrıları, indirimli bulut ve bulut uygulama tedariği gibi konularda, 
 teknoparklar içerisinde çeşitli hizmet ve servislerin global şirketler desteği 
-ile sağlanmasını hedefler
+ile sağlanmasını hedefler.
 
